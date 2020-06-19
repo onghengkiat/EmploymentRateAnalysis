@@ -1,0 +1,13 @@
+name: employment_rate_analysis_webapp
+title: employment_rate_analysis_webapp
+username:
+account: onghengkiat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2406329
+bundleId: 3235131
+url: https://onghengkiat.shinyapps.io/employment_rate_analysis_webapp/
+when: 1591419006.15978
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
