@@ -1,5 +1,5 @@
 #read the file
-mydata <- read.xlsx("D:/KINABALU SEM2/Intro Data Science/Projek/CleanedData.xlsx")
+mydata <- read.xlsx("data/CleanedData.xlsx",header = T, sheetIndex =1)
 print(str(mydata))
 
 

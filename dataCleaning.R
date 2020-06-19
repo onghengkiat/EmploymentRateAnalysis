@@ -1,9 +1,9 @@
 library("xlsx")
 #Set working directory
-setwd("D:/Course Learning (University of Malaya)/Sem 2/Introduction to Data Science/Assigment Project 20%/Dataset")
+setwd("C:/Users/user/Documents/R/Employment_Rate_Analysis_WebApp")
 
 #Read the datasets into Rstudio
-data <- read.xlsx("raw_dataset.xlsx",sheetIndex = 1,header = TRUE)
+data <- read.xlsx("data/raw_dataset.xlsx",sheetIndex = 1,header = TRUE)
 
 #Analysis the data
 View(data)
